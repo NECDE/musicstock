@@ -1,0 +1,60 @@
+/*
+lalados personalizada en:
+http://work.smarchal.com/twbscolor/
+*/
+
+/*navbar-default*/
+.lalados {
+  background-color: #388e3c;
+  border-color: #4caf50;
+}
+.lalados .navbar-brand {
+  color: #f7f7f7;
+}
+.lalados .navbar-brand:hover,
+.lalados .navbar-brand:focus {
+  color: #e8f5e9;
+}
+.lalados .navbar-text {
+  color: #f7f7f7;
+}
+.lalados .navbar-nav > li > a {
+  color: #f7f7f7;
+}
+.lalados .navbar-nav > li > a:hover,
+.lalados .navbar-nav > li > a:focus {
+  color: #e8f5e9;
+}
+.lalados .navbar-nav > .active > a,
+.lalados .navbar-nav > .active > a:hover,
+.lalados .navbar-nav > .active > a:focus {
+  color: #e8f5e9;
+  background-color: #4caf50;
+}
+.lalados .navbar-nav > .open > a,
+.lalados .navbar-nav > .open > a:hover,
+.lalados .navbar-nav > .open > a:focus {
+  color: #e8f5e9;
+  background-color: #4caf50;
+}
+.lalados .navbar-toggle {
+  border-color: #4caf50;
+}
+.lalados .navbar-toggle:hover,
+.lalados .navbar-toggle:focus {
+  background-color: #4caf50;
+}
+.lalados .navbar-toggle .icon-bar {
+  background-color: #f7f7f7;
+}
+.lalados .navbar-collapse,
+.lalados .navbar-form {
+  border-color: #f7f7f7;
+}
+.lalados .navbar-link {
+  color: #f7f7f7;
+}
+.lalados .navbar-link:hover {
+  color: #e8f5e9;
+}
+
